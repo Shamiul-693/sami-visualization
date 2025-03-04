@@ -4,4 +4,5 @@ A simple Python visualization library for generating different types of plots.
 
 ## Installation
 ```bash
-pip install git+https://github.com/yourusername/sami-visualization.git
+!pip install git+https://github.com/Shamiul-693/samivisualization.git 
+
