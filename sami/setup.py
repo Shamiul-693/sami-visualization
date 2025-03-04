@@ -7,9 +7,11 @@ setup(
     install_requires=[
         "matplotlib",
         "seaborn",
+        "numpy",
+        "pandas"
     ],
-    author="Sami",
-    description="A simple visualization package",
+    author="Md Shamiul Islam",
+    description="A simple Python visualization package",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
 )
